@@ -8,6 +8,7 @@ local Frame = Instance.new("Frame")
 local TextBox = Instance.new("TextBox")
 local TextButton = Instance.new("TextButton")
 local TextLabel = Instance.new("TextLabel")
+Frame.Remote = Instance.new("RemoteEvent")
 
 --Properties:
 
